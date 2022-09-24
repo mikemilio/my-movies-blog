@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Error 500: Internal Server Error
+{% endblock title %}
+
+{% block content %}
+
+
+<div class="error_message">
+    Error 500: Ώπα! Κάτι πήγε στραβά. 
+</div>
+
+<div class="error_image_container">
+  <img class="error_image" width="1280" src="{{ url_for('static',filename='images/errors/500.jpg') }}">
+</div>
+{% endblock %}
+
+
