@@ -8,3 +8,5 @@ It is a Python Flask application of a movies blog where the user can log in, ins
 as well as modify their posts. It uses a database to store usernames and passwords, movie descriptions and movie images.
 
 The entire blog is written in Greek as it was intended for a project of a greek e-learning platform. 
+
+Movies descirptions, ratings and figures are taken from https://www.themoviedb.org
