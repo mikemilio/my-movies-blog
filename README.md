@@ -10,3 +10,5 @@ as well as modify their posts. It uses a database to store usernames and passwor
 The entire blog is written in Greek. 
 
 Movies descirptions, ratings and figures were taken from https://www.themoviedb.org
+
+You can take a look at my blog at https://mikemilio.pythonanywhere.com
